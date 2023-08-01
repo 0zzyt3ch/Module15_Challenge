@@ -28,4 +28,6 @@ The initial code was provided by the creators of the FinTech bootcamp.
 
 This repository is open source and can be used at your lesiure.
 
+## Lex Example
+
 ![image](https://github.com/0zzyt3ch/Module15_Challenge/assets/119699776/cf9fae3e-a597-459b-9652-ee303c204cc9)
